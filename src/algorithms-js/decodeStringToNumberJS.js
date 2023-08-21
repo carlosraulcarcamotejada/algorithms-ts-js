@@ -1,4 +1,4 @@
-const decodeStringToNumber = (s) => {
+const decodeStringToNumberJS = (s) => {
   let map = new Map([
     ["@", 1],
     ["#", 5],

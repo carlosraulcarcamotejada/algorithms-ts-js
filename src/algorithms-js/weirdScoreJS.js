@@ -1,4 +1,4 @@
-const weirdScore = (ops) => {
+const weirdScoreJS = (ops) => {
   let res = 0;
 
   const results = [];

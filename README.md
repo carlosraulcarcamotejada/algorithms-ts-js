@@ -1,0 +1,3 @@
+- This a payground to test an develop algorithms on Typescript and Javascript.
+- The project is a front-end app configured to work with Typescript.
+- Vite was use it to buil the boiler plate.
